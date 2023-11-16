@@ -1,0 +1,54 @@
+{
+    "questions": [
+        {
+            "title": "Quand Sonic a-t-il été initialement \n introduit ?",
+            "answer": ["1989", "1991", "1995"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "Qui est l'ennemi juré de \n Sonic dans la série ?",
+            "answer": ["Dr. Eggman", "Knuckles", "Tails"],
+            "goodAnswer": 0
+        },
+        {
+            "title": "Quel est le nom du \n monde natal de Sonic ?",
+            "answer": ["Green Hill Zone", "Mobius", "Emerald Coast"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "Quel est le premier \n jeu Sonic en 3D ?",
+            "answer": ["Sonic the Hedgehog 3", "Sonic CD", "Sonic Adventure"],
+            "goodAnswer": 2
+        },
+        {
+            "title": "Quel animal représente Sonic lorsqu'il \n est transformé par les Chaos Emeralds ?",
+            "answer": ["Renard", "Hérisson", "Loup"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "Quel est le nom du compagnon de Sonic, \n qui est un renard à deux queues ?",
+            "answer": ["Knuckles", "Tails", "Amy"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "Dans quel jeu Sonic peut-il devenir \n Super Sonic pour la première fois ?",
+            "answer": ["Sonic the Hedgehog 2", "Sonic & Knuckles", "Sonic Adventure"],
+            "goodAnswer": 0
+        },
+        {
+            "title": "Quel est le leu d'origine de Knuckles ?",
+            "answer": ["Mushroom Hill", "Mystic Ruins", "Angel Island"],
+            "goodAnswer": 2
+        },
+        {
+            "title": "Quel personnage féminin est souvent \n associé à Sonic dans les jeux ?",
+            "answer": ["Rouge the Bat", "Amy Rose", "Cream the Rabbit"],
+            "goodAnswer": 1
+        },
+        {
+            "title": "Quel est le nom du robot créé par \n Dr. Eggman pour rivaliser avec Sonic ?",
+            "answer": ["Metal Sonic", "Silver Sonic", "Shadow the Hedgehog"],
+            "goodAnswer": 0
+        }
+  ]
+}

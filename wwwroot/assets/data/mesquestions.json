@@ -1,0 +1,19 @@
+arbre JSON
+
+question [] - question (string)
+            - la bonne réponse (int entre 1 et 3)
+            - réponses possibles [] (string)
+{
+    "question" : [
+        {
+            "tittle" : "quel... ?"
+            "correctAnswer" : 1,
+            "answers": ["A","B","C"]
+        },
+        {
+            "tittle" : "quel... ?"
+            "correctAnswer" : 2,
+            "answers": ["D","E","F"]
+        }
+    ]
+}
